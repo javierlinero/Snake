@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="COS 126:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/COS_126_jar</output-path>
+    <root id="root">
+      <element id="archive" name="COS 126.jar">
+        <element id="module-output" name="COS 126" />
+      </element>
+      <element id="library" level="project" name="COS 126" />
+    </root>
+  </artifact>
+</component>
